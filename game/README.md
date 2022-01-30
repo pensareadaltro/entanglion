@@ -1,8 +1,8 @@
-# Entanglion Rule Book
+# Entanglion Regolamento
 
-> A game by IBM Research
+> Un gioco di IBM Research
 
-**2 PLAYERS | AGES 14 & UP | ~45 MINUTES**
+**2 GIOCATORI | ETA' 14+ | ~45 MINUTES**
 
 Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.
 
