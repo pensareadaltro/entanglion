@@ -2,9 +2,9 @@
 
 > Un gioco di IBM Research
 
-**2 GIOCATORI | ETA' 14+ | ~45 MINUTES**
+**2 GIOCATORI | ETA' 14+ | ~45 MINUTI**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.
+Entanglion mette alla prova le tue abilità di navigazione spaziale e pianificazione strategica per esplorare una nuova galassia e ricostruire un antico computer quantistico.
 
 http://ibm.biz/entanglion
 
